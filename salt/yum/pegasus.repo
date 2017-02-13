@@ -1,0 +1,7 @@
+[Pegasus]
+name=Pegasus
+baseurl=http://download.pegasus.isi.edu/wms/download/rhel/7/$basearch/
+gpgcheck=0
+enabled=1
+priority=50
+
